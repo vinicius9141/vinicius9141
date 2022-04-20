@@ -3,8 +3,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-de-oliveira-arruda-b41613164/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius9141/vinicius9141) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oviinii/)
 
-![Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius9141&show_icons=true&theme=dracula)
+![Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius9141&show_icons=true&theme=darcula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius9141&layout=demo)]()
 
 ## Tencologias que uso no meu dia
 
@@ -17,12 +18,10 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div> <br/>
 
-###### Pra mim o minimo do minimo é dar meu máximo.
+##### Pra mim o minimo do minimo é dar meu máximo.
 
 ## Outras Skills
 <div style="display: inline_block"> <br/>
     <img align="center" alt="PhotoShop" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
-    <img align="center" alt="PhotoShop" src="https://aleen42.github.io/badges/src/premiere.svg"/>
-    
-    
+    <img align="center" alt="PhotoShop" src="https://aleen42.github.io/badges/src/premiere.svg"/>    
 </div> <br/>
